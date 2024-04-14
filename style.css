@@ -1,0 +1,11 @@
+.cabeca {
+    background-color: #8500b9;
+    color: white;
+    display: flex;
+    align-items: baseline;
+   ;
+  }
+  .cabecalho-imagem{
+    width: 5%;
+    
+  }
