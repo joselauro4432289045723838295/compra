@@ -7,7 +7,7 @@ body{
 	background-color: #640b7f;
   overflow: hidden;
   height: 100vh;
-  background: radial-gradient(ellipse at bottom, #4c79ad 0%, #12141d 100%);
+  background: radial-gradient(ellipse at bottom, #7e23bf 0%, #12141d 100%);
 }
 a:hover {
 	text-decoration: none;
